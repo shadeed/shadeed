@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Ahmad, Digital Product Designer and Front-End Developer from Palestine. I enjoy working on large scale Product Design and Front End Projects which involves solving complex design problems.
+My name is Ahmad, Digital Product Designer and Front-End Developer from Palestine. I enjoy working on large scale product design and front-end projects which involves solving complex design problems.
 
 I have a business called [Uxable](https://www.uxabledesign.com/) that is specialized in user experience design and front development. In my free time, I write in-depth articles about CSS. I own three blogs:
 - [www.ishadeed.com](http://ishadeed.com/)
