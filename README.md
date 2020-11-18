@@ -7,7 +7,7 @@ I have a business named [Uxable](https://www.uxabledesign.com/) that is speciali
 - [www.rtlstyling.com](http://rtlstyling.com/)
 - [www.a11ymatters.com](https://www.a11ymatters.com/)
 
-📘 I'm wrote a book about [Debugging CSS](http://debuggingcss.com/). Check it out and let me know what do you think!
+📘 I wrote an ebook about [Debugging CSS](http://debuggingcss.com/). Check it out and let me know what do you think!
 
 ## How to reach me
 The fastest way to reach me is via Twitter [@shadeed9](https://twitter.com/shadeed9). If you prefer email, feel free to email me: shadeed9[at]gmail.
