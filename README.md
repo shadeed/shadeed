@@ -14,4 +14,4 @@ The fastest way to reach me is via Twitter [@shadeed9](https://twitter.com/shade
 
 ## Supporting my work
 
-If you want to support my open source projects, I would appreciate [buying me a coffee](https://ko-fi.com/ahmadshadeed).
+If you want to support my open source projects, I would appreciate [buying me a coffee](https://www.buymeacoffee.com/EmbDfQoF6).
